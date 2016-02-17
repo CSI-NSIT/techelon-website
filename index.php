@@ -1,8 +1,11 @@
 <!DOCTYPE html>
 <html lang="en" style="overflow-x:hidden;">
 <head> 
-<link rel="stylesheet" href="css/indexevent.css"/>
-<?php include('inc/header.link.inc.php');?>
+<?php
+
+	include('inc/header.link.inc.php');
+
+?>
 <title>Techelon 2016 | Annual Tech Fest of CSI NSIT</title>
 </head>
 
