@@ -49,77 +49,76 @@
 		<div class="">
 			
 				<div class="row">
-					<div class="sub-main-heading text-center" style="background-color:rgb(71, 163, 218);color:#FFF">COMPETITIONS</div>
+					<div class="sub-main-heading text-center" style="background-color:rgb(71, 163, 218);color:#FFF">EVENTS</div>
 					<ul class="cbp-ig-grid">
 		<li>
-			<a href="http://techelon.csinsit.org/arcane/index.php" target="_blank">
-				<span class="cbp-ig-icon cbp-ig-icon-dig"></span>
-				<h3 class="cbp-ig-title">Arcane<br>(online)</h3>
-				<span class="cbp-ig-category">The online astronomical treasure hunt</span>
-			</a>
-		</li>
-		<li>
-			<a href="https://www.facebook.com/events/1562112104038480" target="_blank">
-				<span class="cbp-ig-icon cbp-ig-icon-blog"></span>
-				<h3 class="cbp-ig-title">The Espial</h3>
-				<span class="cbp-ig-category">debugging event</span>
-			</a>
-		</li>
-		<li>
-			<a href="http://techelon.csinsit.org/enigmata/index.php" target="_blank">
+			<a href="#">
 				<span class="cbp-ig-icon cbp-ig-icon-math"></span>
 				<h3 class="cbp-ig-title">Enigmata<br>(online)</h3>
 				<span class="cbp-ig-category">the online treasure hunt</span>
 			</a>
 		</li>
-		<!--<li style="border-bottom: 1px solid #ddd;">-->
 		<li>
-			<a href="http://techelon.csinsit.org/offline/helloworld.php" target="_blank">
+			<a href="#">
 				<span class="cbp-ig-icon cbp-ig-icon-arc"></span>
 				<h3 class="cbp-ig-title">Hello World</h3>
 				<span class="cbp-ig-category">Back to Basics</span>
 			</a>
 		</li>
 		<li>
-			<a href="http://techelon.csinsit.org/digitalfortress/index.php " target="_blank">
-				<span class="cbp-ig-icon cbp-ig-icon-eni"></span>
-				<h3 class="cbp-ig-title">Digital Fortress<br>(online)</h3>
-				<span class="cbp-ig-category">Hack</span>
+			<a href="events/cyberion/">
+				<span class="cbp-ig-icon cbp-ig-icon-blog"></span>
+				<h3 class="cbp-ig-title">Cyberion<br>(online)</h3>
+				<span class="cbp-ig-category">Technical Case Study Competition</span>
 			</a>
 		</li>
 		<li>
-			<a href="http://techelon.csinsit.org/math/index.php" target="_blank">
+			<a href="#">
+				<span class="cbp-ig-icon cbp-ig-icon-dig"></span>
+				<h3 class="cbp-ig-title">Arcane<br>(online)</h3>
+				<span class="cbp-ig-category">The online astronomical treasure hunt</span>
+			</a>
+		</li>
+		<li>
+			<a href="#">
+				<span class="cbp-ig-icon cbp-ig-icon-blog"></span>
+				<h3 class="cbp-ig-title">Tech 'n' talk</h3>
+				<span class="cbp-ig-category">debugging event</span>
+			</a>
+		</li>
+		<li>
+			<a href="#">
 				<span class="cbp-ig-icon cbp-ig-icon-math"></span>
-				<h3 class="cbp-ig-title">Mathwrath<br>(online)</h3>
+				<h3 class="cbp-ig-title">Debate</h3>
 				<span class="cbp-ig-category">Riddle</span>
 			</a>
 		</li>
 		<li>
-			<a href="https://www.facebook.com/events/363318940540692/" target="_blank">
+			<a href="#">
 				<span class="cbp-ig-icon cbp-ig-icon-dig"></span>
-				<h3 class="cbp-ig-title">Blogizmo<br>(online)</h3>
+				<h3 class="cbp-ig-title">PicMorph<br>(online)</h3>
 				<span class="cbp-ig-category">blog</span>
 			</a>
 		</li>
 		<li>
-			<a href="http://techelon.csinsit.org/offline/codegolf.php" target="_blank">
+			<a href="#">
 				<span class="cbp-ig-icon cbp-ig-icon-eni"></span>
 				<h3 class="cbp-ig-title">Code-In-Less</h3>
 				<span class="cbp-ig-category">Code Golf</span>
 			</a>
 		</li>
 		<li>
-			<a href="https://www.facebook.com/events/587737531328759/" target="_blank">
+			<a href="#">
 				<span class="cbp-ig-icon cbp-ig-icon-nov"></span>
 				<h3 class="cbp-ig-title">Novice<br>(online)</h3>
-				<span class="cbp-ig-category">Code</span>
+				<span class="cbp-ig-category">Coding Contest</span>
 			</a>
 		</li>
 		<li>
-			<a href="http://techelon.csinsit.org/offline/codezilla.php" target="_blank">
-				<span class="cbp-ig-icon cbp-ig-icon-blog"></span>
-				<h3 class="cbp-ig-title">Code Zilla</h3>
-				<span class="cbp-ig-category">Can you Break the loop</span>
+			<a href="#">
+				<span class="cbp-ig-icon cbp-ig-icon-eni"></span>
+				<h3 class="cbp-ig-title">Offline treasure hunt </h3>
+				<span class="cbp-ig-category">Hack</span>
 			</a>
 		</li>
 	</ul>
