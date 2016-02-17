@@ -1,0 +1,19 @@
+/* 
+* @Author: Prabhakar Gupta
+* @Date:   2016-02-17 22:31:58
+* @Last Modified by:   Prabhakar Gupta
+* @Last Modified time: 2016-02-17 22:48:26
+*/
+
+body{
+	/*background-size: cover;*/
+	background-color: white;
+	background-image: none;
+}
+
+.event-description {
+	font-family: 'Alegreya Sans',sans-serif;
+	font-weight: 900;
+	font-size: 20px;
+	text-align: justify;
+}
