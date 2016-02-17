@@ -36,134 +36,119 @@
 		<div class="section-about">
 			<div class="container" style="padding: 100px 0">
 				<div data-sr="hustle 100px over 1s">
-				<div class="row">
-					<div class="col-md-4 col-md-offset-4"><img src="img/techelon.trans.png" width="100%" style="padding:20px"></div>
-					<div class="col-md-10 col-md-offset-1">
-						<center><h1 class="question-head">The tech-fest of CSI NSIT is back with a bang. With coding, debugging and blogging events lined up, brainstorming would be an absolute fun. In addition, it's collaboration with Innovision is an icing on the cake.<br><i>Write beautiful codes and share.<br>Express your ideas and let them spread.<br>Participate and discover the techie YOU.</i><br>THINK.WRITE.CODE.<br>Coz it's Techelon '15.</h1></center>
-						<!--<h2 class="answer-question">Technical Festival of CSI-NSIT</h2>-->
+					<div class="row">
+						<div class="col-md-4 col-md-offset-4">
+							<img src="img/techelon.trans.png" width="100%" style="padding:20px">
+						</div>
+						<div class="col-md-10 col-md-offset-1">
+							<center><h1 class="question-head">The tech-fest of CSI NSIT is back with a bang. With coding, debugging and blogging events lined up, brainstorming would be an absolute fun. In addition, it's collaboration with Innovision is an icing on the cake.<br><i>Write beautiful codes and share.<br>Express your ideas and let them spread.<br>Participate and discover the techie YOU.</i><br>THINK.WRITE.CODE.<br>Coz it's Techelon '15.</h1></center>
+							<!--<h2 class="answer-question">Technical Festival of CSI-NSIT</h2>-->
+						</div>
 					</div>
 				</div>
 			</div>
-			</div>
 		</div>
 		<div class="">
-			
 				<div class="row">
-					<div class="sub-main-heading text-center" style="background-color:rgb(71, 163, 218);color:#FFF">EVENTS</div>
+					<div class="sub-main-heading text-center" style="background-color:rgb(71, 163, 218);color:#FFF">
+						EVENTS
+					</div>
 					<ul class="cbp-ig-grid">
-		<li>
-			<a href="#">
-				<span class="cbp-ig-icon cbp-ig-icon-math"></span>
-				<h3 class="cbp-ig-title">Enigmata<br>(online)</h3>
-				<span class="cbp-ig-category">the online treasure hunt</span>
-			</a>
-		</li>
-		<li>
-			<a href="#">
-				<span class="cbp-ig-icon cbp-ig-icon-arc"></span>
-				<h3 class="cbp-ig-title">Hello World</h3>
-				<span class="cbp-ig-category">Back to Basics</span>
-			</a>
-		</li>
-		<li>
-			<a href="events/cyberion/">
-				<span class="cbp-ig-icon cbp-ig-icon-blog"></span>
-				<h3 class="cbp-ig-title">Cyberion<br>(online)</h3>
-				<span class="cbp-ig-category">Technical Case Study Competition</span>
-			</a>
-		</li>
-		<li>
-			<a href="#">
-				<span class="cbp-ig-icon cbp-ig-icon-dig"></span>
-				<h3 class="cbp-ig-title">Arcane<br>(online)</h3>
-				<span class="cbp-ig-category">The online astronomical treasure hunt</span>
-			</a>
-		</li>
-		<li>
-			<a href="#">
-				<span class="cbp-ig-icon cbp-ig-icon-blog"></span>
-				<h3 class="cbp-ig-title">Tech 'n' talk</h3>
-				<span class="cbp-ig-category">debugging event</span>
-			</a>
-		</li>
-		<li>
-			<a href="#">
-				<span class="cbp-ig-icon cbp-ig-icon-math"></span>
-				<h3 class="cbp-ig-title">Debate</h3>
-				<span class="cbp-ig-category">Riddle</span>
-			</a>
-		</li>
-		<li>
-			<a href="#">
-				<span class="cbp-ig-icon cbp-ig-icon-dig"></span>
-				<h3 class="cbp-ig-title">PicMorph<br>(online)</h3>
-				<span class="cbp-ig-category">blog</span>
-			</a>
-		</li>
-		<li>
-			<a href="#">
-				<span class="cbp-ig-icon cbp-ig-icon-eni"></span>
-				<h3 class="cbp-ig-title">Code-In-Less</h3>
-				<span class="cbp-ig-category">Code Golf</span>
-			</a>
-		</li>
-		<li>
-			<a href="#">
-				<span class="cbp-ig-icon cbp-ig-icon-nov"></span>
-				<h3 class="cbp-ig-title">Novice<br>(online)</h3>
-				<span class="cbp-ig-category">Coding Contest</span>
-			</a>
-		</li>
-		<li>
-			<a href="#">
-				<span class="cbp-ig-icon cbp-ig-icon-eni"></span>
-				<h3 class="cbp-ig-title">Offline treasure hunt </h3>
-				<span class="cbp-ig-category">Hack</span>
-			</a>
-		</li>
-	</ul>
-
-			</div>
+						<li>
+							<a href="#">
+								<span class="cbp-ig-icon cbp-ig-icon-math"></span>
+								<h3 class="cbp-ig-title">Enigmata<br>(online)</h3>
+								<span class="cbp-ig-category">the online treasure hunt</span>
+							</a>
+						</li>
+						<li>
+							<a href="#">
+								<span class="cbp-ig-icon cbp-ig-icon-arc"></span>
+								<h3 class="cbp-ig-title">Hello World</h3>
+								<span class="cbp-ig-category">Back to Basics</span>
+							</a>
+						</li>
+						<li>
+							<a href="events/cyberion/">
+								<span class="cbp-ig-icon cbp-ig-icon-blog"></span>
+								<h3 class="cbp-ig-title">Cyberion<br>(online)</h3>
+								<span class="cbp-ig-category">Technical Case Study Competition</span>
+							</a>
+						</li>
+						<li>
+							<a href="#">
+								<span class="cbp-ig-icon cbp-ig-icon-dig"></span>
+								<h3 class="cbp-ig-title">Arcane<br>(online)</h3>
+								<span class="cbp-ig-category">The online astronomical treasure hunt</span>
+							</a>
+						</li>
+						<li>
+							<a href="#">
+								<span class="cbp-ig-icon cbp-ig-icon-blog"></span>
+								<h3 class="cbp-ig-title">Tech 'n' talk</h3>
+								<span class="cbp-ig-category">debugging event</span>
+							</a>
+						</li>
+						<li>
+							<a href="#">
+								<span class="cbp-ig-icon cbp-ig-icon-math"></span>
+								<h3 class="cbp-ig-title">Debate</h3>
+								<span class="cbp-ig-category">Riddle</span>
+							</a>
+						</li>
+						<li>
+							<a href="#">
+								<span class="cbp-ig-icon cbp-ig-icon-dig"></span>
+								<h3 class="cbp-ig-title">PicMorph<br>(online)</h3>
+								<span class="cbp-ig-category">blog</span>
+							</a>
+						</li>
+						<li>
+							<a href="#">
+								<span class="cbp-ig-icon cbp-ig-icon-eni"></span>
+								<h3 class="cbp-ig-title">Code-In-Less</h3>
+								<span class="cbp-ig-category">Code Golf</span>
+							</a>
+						</li>
+						<li>
+							<a href="#">
+								<span class="cbp-ig-icon cbp-ig-icon-nov"></span>
+								<h3 class="cbp-ig-title">Novice<br>(online)</h3>
+								<span class="cbp-ig-category">Coding Contest</span>
+							</a>
+						</li>
+						<li>
+							<a href="#">
+								<span class="cbp-ig-icon cbp-ig-icon-eni"></span>
+								<h3 class="cbp-ig-title">Offline treasure hunt </h3>
+								<span class="cbp-ig-category">Hack</span>
+							</a>
+						</li>
+					</ul>
+				</div>
 		</div>
-		<?php include('inc/footer.php');?>
+<?php
+
+	include('inc/footer.php');
+
+?>
 	</div>
 
 	<div id = "percent"></div>
 	<div id="loading"></div>	
+
+
+	<div class="drive-me-top-babe">
+		<a href="#top"><i class="fa fa-angle-double-up" style="font-size:40px; color:black"></i></a>
+	</div>
+
+<!-- JavaScript files -->
 <script src="js/jquery-2.1.1.js"></script>
-<script src="js/typed.js"></script>
-<script src="js/scrollReveal.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/typed.min.js"></script>
+<script src="js/scrollReveal.min.js"></script>
 <script src="js/wow.min.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
 
-<script>
-var config = {reset:true}
-window.sr = new scrollReveal(config);
-</script>
-
-<script>
-	new WOW().init();
-</script>
-
-<script>
-function onReady(callback) {
-    var intervalID = window.setInterval(checkReady, 3000);
-
-    function checkReady() {
-        if (document.getElementsByTagName('body')[0] !== undefined) {
-            window.clearInterval(intervalID);
-            callback.call(this);
-        }
-    }
-}
- 
-function show(id, value) {
-    document.getElementById(id).style.display = value ? 'block' : 'none';
-}
-
-onReady(function () {
-    show('Main_Page', true);
-    show('loading', false);
-});
-</script>
 </body>
 </html>

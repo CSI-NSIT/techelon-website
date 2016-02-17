@@ -11,6 +11,3 @@
 <link href='http://fonts.googleapis.com/css?family=Dosis|Lobster|Alegreya+Sans|Open+Sans|Raleway:300' rel='stylesheet' type='text/css'>
 
 <link rel="shortcut icon" href="img/techelon.trans.png">
-
-<script src="js/jquery-2.2.0.min.js"></script>
-<script src="js/bootstrap.min.js"></script>

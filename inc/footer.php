@@ -39,11 +39,3 @@
 	//include 'modal.div.inc.php';
 
 ?>
-
-<script type="text/javascript">
-$(document).ready(function(){$(window).scroll(function(){if($(this).scrollTop()>200){$(".drive-me-top-babe").fadeIn()}else{$(".drive-me-top-babe").fadeOut()}});$(".drive-me-top-babe").click(function(){$("html, body").animate({scrollTop:0},500);return false})});
-$(function(){$("a[href*=#]:not([href=#])").click(function(){if(location.pathname.replace(/^\//,"")==this.pathname.replace(/^\//,"")&&location.hostname==this.hostname){var e=$(this.hash);e=e.length?e:$("[name="+this.hash.slice(1)+"]");if(e.length){$("html,body").animate({scrollTop:e.offset().top},1e3);return false}}})})
-</script>
-<div class="drive-me-top-babe">
-	<a href="#top"><i class="fa fa-angle-double-up" style="font-size:40px; color:black"></i></a>
-</div>
