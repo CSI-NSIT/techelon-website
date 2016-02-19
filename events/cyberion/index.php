@@ -34,7 +34,7 @@
 				<ul>
 					<li>Participation is in teams of 2-3 (Lone wolves allowed)</li>
 					<li>Cross College teams are allowed</li>
-					<li>The case shall be mailed to registered participants by <u>Friday, 19 February 2016 8:00 pm</u></li>
+					<li>The case can be accessed <a href="https://drive.google.com/file/d/0B66orGXGG_RhN1ZHZmxtOW5WQlk/view?usp=sharing">Here</a></li>
 					<li>Last date for submission of solutions is <u>Friday, 26 February 2016</u></li>
 					<li>The top 6 teams selected after the preliminary round shall be mailed further instructions for the on campus round to be held during Innovision '16</li>
 				</ul>
