@@ -24,7 +24,7 @@
 	</div>
 
 	<div id="Main_Page" style="display:none">
-	    <div class="container wow bounceInUp" style="padding:70px 0;" >
+	    <div class="container wow bounceInUp" style="padding:70px 0px 0px 0px;" >
 			<center>
 				<img src="http://csinsit.org/img/csi.png" width="150px" ><br>
 				<span class="presents-class">presents</span><br><br>
@@ -37,11 +37,11 @@
 	    </div>
 		
 		<div class="section-about">
-			<div class="container" style="padding: 100px 0">
+			<div class="container" style="padding-top:0px; padding-bottom:100px ">
 				<div data-sr="hustle 100px over 1s">
 					<div class="row">
 						<div class="col-md-4 col-md-offset-4">
-							<img src="img/techelon.trans.png" width="100%" style="padding:20px">
+							<img src="img/techelon.trans.png" width="100%" style="padding:0px">
 						</div>
 						<div class="col-md-10 col-md-offset-1">
 							<center><h1 class="question-head">The tech-fest of CSI NSIT is back with a bang. With coding, debugging and blogging events lined up, brainstorming would be an absolute fun. In addition, it's collaboration with Innovision is an icing on the cake.<br><i>Write beautiful codes and share.<br>Express your ideas and let them spread.<br>Participate and discover the techie YOU.</i><br>THINK.WRITE.CODE.<br>Coz it's Techelon '15.</h1></center>
@@ -81,22 +81,8 @@
 						<li>
 							<a href="#">
 								<span class="cbp-ig-icon cbp-ig-icon-dig"></span>
-								<h3 class="cbp-ig-title">Arcane<br>(online)</h3>
-								<span class="cbp-ig-category">The online astronomical treasure hunt</span>
-							</a>
-						</li>
-						<li>
-							<a href="#">
-								<span class="cbp-ig-icon cbp-ig-icon-blog"></span>
-								<h3 class="cbp-ig-title">Tech 'n' talk</h3>
-								<span class="cbp-ig-category">debugging event</span>
-							</a>
-						</li>
-						<li>
-							<a href="#">
-								<span class="cbp-ig-icon cbp-ig-icon-math"></span>
-								<h3 class="cbp-ig-title">Debate</h3>
-								<span class="cbp-ig-category">Riddle</span>
+								<h3 class="cbp-ig-title">Diseñothon<br>(online)</h3>
+								<span class="cbp-ig-category">UI/UX Designing</span>
 							</a>
 						</li>
 						<li>
@@ -122,9 +108,9 @@
 						</li>
 						<li>
 							<a href="#">
-								<span class="cbp-ig-icon cbp-ig-icon-eni"></span>
-								<h3 class="cbp-ig-title">Offline treasure hunt </h3>
-								<span class="cbp-ig-category">Hack</span>
+								<span class="cbp-ig-icon cbp-ig-icon-blog"></span>
+								<h3 class="cbp-ig-title">Codezilla<br>(online)</h3>
+								<span class="cbp-ig-category">Coding Contest</span>
 							</a>
 						</li>
 					</ul>
