@@ -44,7 +44,7 @@
 							<img src="img/techelon.trans.png" width="100%" style="padding:0px">
 						</div>
 						<div class="col-md-10 col-md-offset-1">
-							<center><h1 class="question-head">The tech-fest of CSI NSIT is back with a bang. With coding, debugging and blogging events lined up, brainstorming would be an absolute fun. In addition, it's collaboration with Innovision is an icing on the cake.<br><i>Write beautiful codes and share.<br>Express your ideas and let them spread.<br>Participate and discover the techie YOU.</i><br>THINK.WRITE.CODE.<br>Coz it's Techelon '15.</h1></center>
+							<center><h1 class="question-head">The tech-fest of CSI NSIT is back with a bang. With coding, debugging and designing events lined up, brainstorming would be an absolute fun. In addition, it's collaboration with Innovision is an icing on the cake.<br><i>Write beautiful codes and share.<br>Express your ideas and let them spread.<br>Participate and discover the techie in YOU.</i><br>THINK.WRITE.CODE.<br>Coz it's Techelon '16.</h1></center>
 							<!--<h2 class="answer-question">Technical Festival of CSI-NSIT</h2>-->
 						</div>
 					</div>
