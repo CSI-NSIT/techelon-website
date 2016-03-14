@@ -1,6 +1,6 @@
 <?php
 
-	$parent_domain = "http://localhost/techelon/";
+	$parent_domain = "http://techelon.csinsit.org/";
 
 ?>
 <meta charset="utf-8">
